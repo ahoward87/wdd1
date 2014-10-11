@@ -1,6 +1,6 @@
-# Deployment Plan
+#Deployment Plan
 
-## Staging Server
+##Staging Server
 
 1. Create first (staging) server
 2. Install and configure git and apache2 on staging server
